@@ -57,3 +57,11 @@ Dữ liệu được tham khảo từ Kaggle:
 - Xác định các yếu tố ảnh hưởng đến khả năng thanh toán của khách hàng.
 - Nhận diện nhóm khách hàng có nguy cơ tín dụng cao để đưa ra các biện pháp quản lý rủi ro hiệu quả hơn.
 - Phân tích xu hướng vay để đưa ra các chính sách phù hợp cho từng nhóm khách hàng.
+
+## Các step thực hiện
+
+## File code python
+
+## Power BI
+
+## Power Point
