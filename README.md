@@ -42,6 +42,7 @@ Phân tích cơ bản:
     - Dựa vào độ lệch chuẩn std cao (1.55 triệu bản) và 50% median = 0.06 triệu bản cho thấy thị trường game rất khắc nhiệt, phần lớn số lượng game được bán ra rất thấp trong đó 75% số có doanh số bán 0.47 triệu bản và 25% game bán được 470.000 triệu bản.
     - NA được xem là thị trường lớn nhất với thị phần chiếm 50% toàn bộ thị trường sau đó là EU với 29% thị phần kế đó là Other 12,9% và JP là 12%.
     - 3 Thị trường NA, EU và JP đều có liên quan ảnh hưởng đến nhau nhưng thị trường JP lại ít ảnh hưởng như 3 thị trường trên, một số game không bán được tại thị trường JP. Ngoài ra JP cũng là thị trường có ít game bán chạy.
+
 Phân tích theo các yếu tố:
 - Vì platform có sự update qua các năm nên để chuẩn xác tôi đã tạo thêm cột Manufacturer ghi nhận tên công ty sản xuất platform đó và phân tích bằng công ty sản xuất platform thay cho platform.
   - Tạo data manufacturer và dử dụng vlookup cập nhật vào file data sau đó đọc lại data.
@@ -52,6 +53,7 @@ Phân tích theo các yếu tố:
     - Nên đầu tư vào platform của Sony, Nintendo và Microsoft. Tránh đầu tư vào game không chạy được trong bộ 3 này vì các platform còn lại có doanh số rất thấp
     - Các thế loại game Action, Sport và Role-Playing có tiềm năng đầu tư lớn
     - Nintendo, EA và Activision là những nhà phát hành đáng chú ý.
+
 Phân tích chi tiết từng thị trường:
   - Kiểm tra doanh số theo thể loại game, nhà phát hành và platform
   - <img width="739" alt="Ảnh màn hình 2025-02-17 lúc 13 28 23" src="https://github.com/user-attachments/assets/0e407ff9-55a0-482e-a38f-e33618241908" />
