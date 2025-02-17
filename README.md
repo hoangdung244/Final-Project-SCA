@@ -62,13 +62,17 @@ Phân tích chi tiết từng thị trường:
   
   -> Kết luận từng loại thị trường:
   
-      - NA:Với thị trường bắc mỹ nên tập trung đầu từ vào game thuộc thể loại Action và Sport cho 2 dòng mày của Nintendo và Sony.
+      - NA
+        - Với thị trường bắc mỹ nên tập trung đầu từ vào game thuộc thể loại Action và Sport cho 2 dòng mày của Nintendo và Sony.
       
-      - EU:Với thị trường EU nên tập trung đầu từ vào game thuộc thể loại Action và Sport cho 2 dòng mày của Nintendo và Sony.
+      - EU
+        - Với thị trường EU nên tập trung đầu từ vào game thuộc thể loại Action và Sport cho 2 dòng mày của Nintendo và Sony.
       
-      - Other:Với thị trường Other nên tập trung đầu từ vào game thuộc thể loại Action và Sport cho 2 dòng mày của Sony và Nintendo. Cần đặc biết chú ý platform thuộc công ty Sony có doanh số rất cao gần như gấp đôi nên khi đầu tư thị trường này nên tập trung vào các game có platform này.
+      - Other:
+        - Với thị trường Other nên tập trung đầu từ vào game thuộc thể loại Action và Sport cho 2 dòng mày của Sony và Nintendo. Cần đặc biết chú ý platform thuộc công ty Sony có doanh số rất cao gần như gấp đôi nên khi đầu tư thị trường này nên tập trung vào các game có platform này.
       
-      - JP:Với thị trường Nhật Bản rất khác biết với các thị trường còn lại khi các thế loại game được yêu thích có chung là action và sport nhưng thể loại role-play lại vượt trội rất nhiều, các nhà sản xuất game và platform nội địa vũng vượt trội so với các công ty đến từ nước khác. Cho thấy thị trường này cần nghiên cứu kỹ về tính nội địa trước khi đầu tư. Nếu đầu tư vào thị trường này nên đầu tư game role-play của nhà phát hành và sản xuất flatform Nintendo vì các thông số của công ty này rất vượt trội so với các công ty khác.
+      - JP:
+        - Với thị trường Nhật Bản rất khác biết với các thị trường còn lại khi các thế loại game được yêu thích có chung là action và sport nhưng thể loại role-play lại vượt trội rất nhiều, các nhà sản xuất game và platform nội địa vũng vượt trội so với các công ty đến từ nước khác. Cho thấy thị trường này cần nghiên cứu kỹ về tính nội địa trước khi đầu tư. Nếu đầu tư vào thị trường này nên đầu tư game role-play của nhà phát hành và sản xuất flatform Nintendo vì các thông số của công ty này rất vượt trội so với các công ty khác.
   
 Kết luận cuối:
   - Thị trường game rất khắc nghiệt vì phần lớn các game đều có doanh số rất thấp nhưng khi thành công thường có doanh số rất cao. Nên khi đầu từ cần chú ý các yếu tố thị trường khi đầu tư như sau:
