@@ -59,7 +59,8 @@ Phân tích chi tiết từng thị trường:
   - <img width="739" alt="Ảnh màn hình 2025-02-17 lúc 13 28 23" src="https://github.com/user-attachments/assets/0e407ff9-55a0-482e-a38f-e33618241908" />
   - <img width="908" alt="Ảnh màn hình 2025-02-17 lúc 13 31 12" src="https://github.com/user-attachments/assets/b8c646a3-4a72-419c-b948-2d5d683ae8d8" />
   - <img width="879" alt="Ảnh màn hình 2025-02-17 lúc 13 32 12" src="https://github.com/user-attachments/assets/e0d11213-7c51-40d1-8152-4233fd936541" />
-  -> Kết luận từng loại thị trường: 
+  -> Kết luận từng loại thị trường:
+    
     - NA:    Với thị trường bắc mỹ nên tập trung đầu từ vào game thuộc thể loại Action và Sport cho 2 dòng mày của Nintendo và Sony
     - EU:    Với thị trường EU nên tập trung đầu từ vào game thuộc thể loại Action và Sport cho 2 dòng mày của Nintendo và Sony
     - Other: Với thị trường Other nên tập trung đầu từ vào game thuộc thể loại Action và Sport cho 2 dòng mày của Sony và Nintendo. Cần đặc biết chú ý platform thuộc công ty Sony có doanh số rất cao gần như gấp đôi nên khi đầu tư thị trường này nên tập trung vào các game có platform này.
