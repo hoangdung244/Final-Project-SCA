@@ -52,6 +52,10 @@ Phân tích chi tiết từng thị trường:
 
 ## Visualization  
 Sử dụng power BI để làm rõ phần này hơn, dưới đây là hình ảnh Power BI
+Overview:
+![1](https://github.com/user-attachments/assets/90249aa4-6409-4c06-abdd-eb74bbb9a6a9)
+Từng thị trường:
+![2](https://github.com/user-attachments/assets/7ccfd41c-fe48-4a3e-acbb-a46fd0825774)
 
 ## Data Storytelling
 Phân tích cơ bản:
