@@ -34,7 +34,7 @@ Dữ liệu được tham khảo từ Kaggle:
 
 ## Exploratory Data Analysis (EDA)
 Phân tích cơ bản
-- ** Sử dụng Descriptive, hisplot và matrix giữa các khu vực
+- Sử dụng Descriptive, hisplot và matrix giữa các khu vực
   - <img width="824" alt="Ảnh màn hình 2025-02-17 lúc 12 08 39" src="https://github.com/user-attachments/assets/61c268d4-524e-4951-8702-897608068a04" />
   - <img width="707" alt="Ảnh màn hình 2025-02-17 lúc 12 09 09" src="https://github.com/user-attachments/assets/57448823-d617-40e8-906b-b7c70e6e4ab7" />
   - <img width="854" alt="Ảnh màn hình 2025-02-17 lúc 12 11 01" src="https://github.com/user-attachments/assets/550b60e9-0c1e-46e3-99af-1c9bc3228ecf" />
