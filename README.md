@@ -47,6 +47,7 @@ Phân tích theo các yếu tố
   - Tạo data manufacturer và dử dụng vlookup cập nhật vào file data sau đó đọc lại data.
 - Gọi và sắp xếp các thể loại game và nhà sản xuất platform theo doanh số bán từ cao đến thấp
   - <img width="865" alt="Ảnh màn hình 2025-02-17 lúc 12 34 56" src="https://github.com/user-attachments/assets/ed3ac235-c2d9-4f42-a2a2-2b61048a4a34" />
+  - <img width="830" alt="Ảnh màn hình 2025-02-17 lúc 12 46 25" src="https://github.com/user-attachments/assets/9e941d23-fe5d-460f-b19f-bfc137e85022" />
   -> Rút ra kết luận
     - Nên đầu tư vào platform của Sony, Nintendo và Microsoft. Tránh đầu tư vào game không chạy được trong bộ 3 này vì các platform còn lại có doanh số rất thấp
     - Các thế loại game Action, Sport và Role-Playing có tiềm năng đầu tư lớn
