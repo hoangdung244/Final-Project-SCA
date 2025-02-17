@@ -28,25 +28,30 @@ Dữ liệu được tham khảo từ Kaggle:
 ## Data Cleaning
 - Kiểm tra null
   - Sử dụng hỗ trợ AI Chatbox tìm year các game chưa có năm phát hành sau đó sử dùng vlookup trong excel
-  - Thay thế các cột trống ở NA_Sales, EU_Sales, JP_Sales, Other_Sales và Global_Sales thành giá trị 0 
+  - Thay thế các cột trống ở NA_Sales, EU_Sales, JP_Sales, Other_Sales và Global_Sales thành giá trị 0
 - Chuẩn hóa định dạng dữ liệu ngày tháng và tên cột.
 - Loại bỏ các phần trùng lặp
 
 ## Exploratory Data Analysis (EDA)
 Phân tích cơ bản
 - ** Sử dụng Descriptive, hisplot và matrix giữa các khu vực
-- <img width="824" alt="Ảnh màn hình 2025-02-17 lúc 12 08 39" src="https://github.com/user-attachments/assets/61c268d4-524e-4951-8702-897608068a04" />
-- <img width="707" alt="Ảnh màn hình 2025-02-17 lúc 12 09 09" src="https://github.com/user-attachments/assets/57448823-d617-40e8-906b-b7c70e6e4ab7" />
-- <img width="854" alt="Ảnh màn hình 2025-02-17 lúc 12 11 01" src="https://github.com/user-attachments/assets/550b60e9-0c1e-46e3-99af-1c9bc3228ecf" />
--> Tôi rút kết luận như sau
-  - thị trương game rất khắc nhiệt dựa vào độ lệch chuẩn std cao (1.55 triệu bản) và 50% median = 0.06 triệu bản cho thấy thị trường game rất khắc nhiệt, phần lớn số lượng game được bán ra rất thấp trong đó 75% số có doanh số bán 0.47 triệu bản và 25% game bán được 470.000 triệu bản.
-  - NA được xem là thị trường lớn với thị phần chiếm 50% toàn bộ thị trường sau đó là EU với 29% thị phần kế đó là Other 12,9 và JP là 12.5.
-  - 3 Thị trường NA, EU và JP đều có liên quan ảnh hưởng đến nhau nhưng thị trường JP lại ít ảnh hưởng như 3 thị trường trên, một số game không được tại thị trường JP. Ngoài ra JP cũng là thị trường có ít game bán chạy.
+  - <img width="824" alt="Ảnh màn hình 2025-02-17 lúc 12 08 39" src="https://github.com/user-attachments/assets/61c268d4-524e-4951-8702-897608068a04" />
+  - <img width="707" alt="Ảnh màn hình 2025-02-17 lúc 12 09 09" src="https://github.com/user-attachments/assets/57448823-d617-40e8-906b-b7c70e6e4ab7" />
+  - <img width="854" alt="Ảnh màn hình 2025-02-17 lúc 12 11 01" src="https://github.com/user-attachments/assets/550b60e9-0c1e-46e3-99af-1c9bc3228ecf" />
+  -> Tôi rút kết luận như sau
+    - Dựa vào độ lệch chuẩn std cao (1.55 triệu bản) và 50% median = 0.06 triệu bản cho thấy thị trường game rất khắc nhiệt, phần lớn số lượng game được bán ra rất thấp trong đó 75% số có doanh số bán 0.47 triệu bản và 25% game bán được 470.000 triệu bản.
+    - NA được xem là thị trường lớn nhất với thị phần chiếm 50% toàn bộ thị trường sau đó là EU với 29% thị phần kế đó là Other 12,9% và JP là 12%
+    - 3 Thị trường NA, EU và JP đều có liên quan ảnh hưởng đến nhau nhưng thị trường JP lại ít ảnh hưởng như 3 thị trường trên, một số game không bán được tại thị trường JP. Ngoài ra JP cũng là thị trường có ít game bán chạy.
+Phân tích theo các yếu tố
+- Vì platform có sự update qua các năm nên để chuẩn xác tôi đã tạo thêm cột Manufacturer ghi nhận tên công ty sản xuất platform đó và phân tích bằng công ty sản xuất platform thay cho platform.
+  - Tạo data manufacturer và dử dụng vlookup cập nhật vào file data sau đó đọc lại data.
+- Gọi và sắp xếp các thể loại game và nhà sản xuất platform theo doanh số bán từ cao đến thấp
+  - <img width="865" alt="Ảnh màn hình 2025-02-17 lúc 12 34 56" src="https://github.com/user-attachments/assets/ed3ac235-c2d9-4f42-a2a2-2b61048a4a34" />
+  -> Rút ra kết luận
+    - Nên đầu tư vào platform của Sony, Nintendo và Microsoft. Tránh đầu tư vào game không chạy được trong bộ 3 này vì các platform còn lại có doanh số rất thấp
+    - Các thế loại game Action, Sport và Role-Playing có tiềm năng đầu tư lớn
+    - Nintendo, EA và Activision là những nhà phát hành đáng chú ý.
 
-
-  - Doanh thu bán game các thị trường từ năm 1980 đến 2016
-  - 
-  - Giá trị trung bình, lớn nhất và nhỏ nhất của số tiền vay.
 - **Phân Tích Xu Hướng**:
   - Biểu đồ thể hiện sự thay đổi số lượng khoản vay theo năm.
 - **Phân Tích Nhóm Khách Hàng**:
