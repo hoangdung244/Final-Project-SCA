@@ -22,7 +22,7 @@ Dữ liệu được tham khảo từ Kaggle:
 - **10 cột** với các chỉ số liên quan đến thể loại, nhà phát hành, nhà sản xuất và doanh số bán các thị trường
 
 ## Analysis
-- Tạo thống kê tóm tắt và trực quan hóa bằng hisplot và matrix
+- Tạo thống kê tóm tắt và trực quan hóa bằng hisplot, lineplot và matrix
 - Sử dụng Power BI xây dựng hệ thống chart trực quan hóa dữ liệu.
   
 ## Data Cleaning
