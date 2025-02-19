@@ -6,7 +6,7 @@ Dự án này được thực hiện trên một bộ dữ liệu doanh số bá
 ## Purpose and Outcome
 Thông qua dự án, tôi sẽ trả lời những câu hỏi chính như:
 - Những thể loại game, nhà phát hành và hệ máy của nhà phát hành nào được yêu thích nhất
-- Đâu là thị trường lớn nhất, tính chất của các thị trường, nên đầu tư thị trường nào.
+- thị phần của các thị trường, tính chất của các thị trường, nên đầu tư thị trường nào.
 
 ## Technologies
 - **Power BI**: Để trực quan hóa dữ liệu.
