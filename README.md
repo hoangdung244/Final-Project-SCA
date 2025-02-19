@@ -2,7 +2,7 @@
 Bài tập cuối kỳ SCA
 # Video games sales analysis and visualization
 ## Project Overview
-Dữ án này được thực hiện trên một bộ dữ liệu doanh số bán game của các thị trường gồm Bắc Mỹ, Châu Âu, Nhật Bản và các thị trường khác. Dữ án được thực hiện nhằm mục đích tìm câu trả lời ban đầu cho việc đầu tư vào thị trường game.
+Dự án này được thực hiện trên một bộ dữ liệu doanh số bán game của các thị trường gồm Bắc Mỹ, Châu Âu, Nhật Bản và các thị trường khác. Dự án được thực hiện nhằm mục đích tìm câu trả lời ban đầu cho việc đầu tư vào thị trường game.
 ## Purpose and Outcome
 Thông qua dự án, tôi sẽ trả lời những câu hỏi chính như:
 - Những thể loại game, nhà phát hành và hệ máy của nhà phát hành nào được yêu thích nhất
